@@ -23,8 +23,10 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <br>
 
----
+#
 
 ### 📊 Stats
 
 ![Emptybrother7's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptybrother7&show_icons=true&theme=dracula)
+
+---
