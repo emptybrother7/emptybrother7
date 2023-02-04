@@ -27,6 +27,6 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 
 ### 📊 Stats
 
-![Emptybrother7's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptybrother7&show_icons=true&theme=dracula)
+![Emptybrother7's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptybrother7&show_icons=true&theme=nightowl)
 
 ---
