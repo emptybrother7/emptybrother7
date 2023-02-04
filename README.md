@@ -4,7 +4,7 @@
 
 I'm emptybrother7, a human with a passion for solving complex problems and creating impact through technology.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/emptybrother7">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/emptybrother7?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/emptybrother7?tab=followers">
