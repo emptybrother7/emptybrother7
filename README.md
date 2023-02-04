@@ -1,3 +1,3 @@
 # 🗡️emptybrother7
 
-**'Artist(Producer/Dev/Creator)'**
+**`Artist(Producer/Dev/Creator)`**
