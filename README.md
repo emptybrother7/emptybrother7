@@ -25,6 +25,17 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 
 #
 
+## 📦 Projects
+
+| Name            | Link                                |
+| --------------- | ----------------------------------- |
+| ClubTEKAC       | https://tekac.club                  |
+| MallTEKAC       | https://malltekac.club                  |
+| Road Waves      | https://roadwaves.xyz               |
+| AlienCAUZ       | https://aliencauz.com               |
+| NorthwoodsNice  | Coming Soon                         |
+| FIJI Pages      | Coming Soon                         |
+
 ### 📊 Stats
 
 ![Emptybrother7's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptybrother7&show_icons=true&theme=nightowl)
