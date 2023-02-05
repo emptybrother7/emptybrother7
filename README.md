@@ -1,4 +1,4 @@
-# 🗡️emptybrother7
+# 🗡️emptybrother7🗡️
 
 **`Human(Musician/Coder/Artist)`**
 
@@ -11,7 +11,7 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/emptybrother7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
----
+#
 
 ### ⚙️ Languages and Tools
 
