@@ -38,6 +38,6 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 
 ### 📊 Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=emptybrother7)]
+[![](https://github-readme-stats.vercel.app/api?username=emptybrother7&count_private=true&theme=tokyonight)]
 
 ---
