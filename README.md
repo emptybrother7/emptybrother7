@@ -38,6 +38,6 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 
 ### 📊 Stats
 
-![Emptybrother7's GitHub stats](https://github-readme-stats.vercel.app/api?username=emptybrother7&show_icons=true&theme=nightowl)
-
+![](https://raw.githubusercontent.com/emptybrother7/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/emptybrother7/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ---
