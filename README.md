@@ -34,6 +34,6 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 | Road Waves      | https://roadwaves.xyz               | TailwindCSS                         |
 | AlienCAUZ       | https://aliencauz.com               | TailwindCSS                         |
 | NorthwoodsNice  | Coming Soon                         | Bootstrap                           |
-| DaTenguGod      | Coming Soon                         | AstroJS, TailwindCSS                |
+| DaTenguGod      | Coming Soon                         | Astro, TailwindCSS, W3JS            |
 
 
