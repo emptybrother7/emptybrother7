@@ -27,12 +27,13 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 
 ## 📦 Projects
 
-| Name            | Link                                |
-| --------------- | ----------------------------------- |
-| ClubTEKAC       | https://tekac.club                  |
-| MallTEKAC       | https://malltekac.club              |
-| Road Waves      | https://roadwaves.xyz               |
-| AlienCAUZ       | https://aliencauz.com               |
-| NorthwoodsNice  | Coming Soon                         |
-| FIJI Pages      | Coming Soon                         |
+| Name            | Link                                | Tools                               |
+| --------------- | ----------------------------------- | ----------------------------------- |
+| ClubTEKAC       | https://tekac.club                  | TailwindCSS                         |
+| MallTEKAC       | https://malltekac.club              | TailwindCSS, AlpineJS               |
+| Road Waves      | https://roadwaves.xyz               | TailwindCSS                         |
+| AlienCAUZ       | https://aliencauz.com               | TailwindCSS                         |
+| NorthwoodsNice  | Coming Soon                         | Bootstrap                           |
+| DaTenguGod      | Coming Soon                         | AstroJS, TailwindCSS                |
+
 
