@@ -33,7 +33,7 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 | MallTEKAC       | https://malltekac.club              | TailwindCSS, AlpineJS               |
 | Road Waves      | https://roadwaves.xyz               | TailwindCSS                         |
 | AlienCAUZ       | https://aliencauz.com               | TailwindCSS                         |
-| NorthwoodsNice  | Coming Soon                         | Bootstrap                           |
+| NorthwoodsNice  | https://northwoodsnice.com          | Bootstrap                           |
 | DaTenguGod      | https://datengugod.vercel.app/      | Astro, TailwindCSS, W3JS            |
 
 
