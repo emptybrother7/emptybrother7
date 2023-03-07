@@ -19,7 +19,7 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 | --------------- | ----------------------------------- | ----------------------------------- |
 | ClubTEKAC       | https://tekac.club                  | TailwindCSS                         |
 | MallTEKAC       | https://malltekac.club              | TailwindCSS, AlpineJS               |
-| Road Waves      | https://roadwaves.xyz               | TailwindCSS                         |
+| Road Waves      | https://roadwaves.xyz               | Vanilla CSS, Jquery                 |
 | AlienCAUZ       | https://aliencauz.com               | TailwindCSS                         |
 | NorthwoodsNice  | https://northwoodsnice.com          | Bootstrap                           |
 | DaTenguGod      | https://datengugod.vercel.app/      | Astro, TailwindCSS, W3JS            |
