@@ -18,7 +18,6 @@ I'm emptybrother7, a human with a passion for solving complex problems and creat
 | Name            | Link                                |
 | --------------- | ----------------------------------- |
 | ClubTEKAC       | https://tekac.club                  | 
-| Road Waves      | https://roadwaves.xyz               |
-| AlienCAUZ       | https://aliencauz.com               |
+
 
 
